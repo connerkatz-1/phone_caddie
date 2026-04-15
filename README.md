@@ -9,7 +9,15 @@ Phone Caddie is a web app that helps golfers better understand their golf game. 
 ## Intended Users
 Intened users would be any golfers that are trying to improve their golf game.
 
+## Current Features
+- Select club type (Driver, Iron, Wedge)
+- Log shot direction (Left, Straight, Right)
+- Input number of shots taken
+- Instant feedback based on shot results
+- Session summary display
+
 ## Planned Features
-1. Shot input feature
-2. Distance tracker and trend analysis
-3. Suggestion feedback
+- Shot history tracking over multiple sessions
+- Visual performance charts and trends
+- Drill recommendations based on patterns
+- Camera-based shot tracking for direction analysis
